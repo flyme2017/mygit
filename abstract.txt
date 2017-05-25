@@ -7,4 +7,5 @@ man-machine integration.
 human-powered augmentation lower exoskeleton are often the basic issues which developer consider. Based 
 on these basic requirements, this paper designs and builds the hardware and software development platform 
 of the power board, completes the hardware abstraction layer of the power board based on Canopen, and
- analyzes the SDF file on the core board. 
+analyzes the SDF file on the core board. 
+	this is abstract of my file.
