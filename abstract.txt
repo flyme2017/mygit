@@ -10,3 +10,4 @@ of the power board, completes the hardware abstraction layer of the power board 
 analyzes the SDF file on the core board. 
 	this is abstract of my file.
 	my file is on the desktop.
+	there are two file now.
